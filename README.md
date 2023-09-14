@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my git repo
-Author - Pratikshya
+Author - Pratikshya Mishra
